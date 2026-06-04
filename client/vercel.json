@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://mini-google-docs-backend.onrender.com/api/:path*"
+      "destination": "https://mini-docs-backend-xxmv.onrender.com/api/:path*"
     }
   ]
 }
